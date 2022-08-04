@@ -1,0 +1,23 @@
+{
+  "name": "kanbandb",
+  "version": "1.0.0",
+  "description": "kanbandb made functional",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edmondthui/kanbandb.git"
+  },
+  "keywords": [
+    "kanbandb",
+    "kanban"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edmondthui/kanbandb/issues"
+  },
+  "homepage": "https://github.com/edmondthui/kanbandb#readme"
+}
