@@ -14,10 +14,13 @@
     "kanbandb",
     "kanban"
   ],
-  "author": "",
+  "author": "edmondthui",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/edmondthui/kanbandb/issues"
+  },
+  "dependencies": {
+    "node-uuid": "^8.3.2"
   },
   "homepage": "https://github.com/edmondthui/kanbandb#readme"
 }
