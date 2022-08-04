@@ -1,4 +1,4 @@
-import { v4 } from "node-uuid";
+import { v4 as uuidv4 } from "uuid";
 
 /*
 A card in the database looks like:
@@ -45,7 +45,7 @@ function KanbanDB() {
   let dataItemPrefix;
 
   function createGUID() {
-    return v4();
+    return uuidv4();
   }
 
   function verifyDbReady() {
